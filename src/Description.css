@@ -1,0 +1,12 @@
+.description-box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0 12px;
+}
+.description p{
+    display: flex;
+    text-indent: 2px;
+    justify-content: center;
+    text-align: justify;
+}
